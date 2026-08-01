@@ -11,3 +11,9 @@ This project is based on tmp64's BugfixedHL-Rebased project (https://github.com/
 For building: Download tmp64's BugfixedHL-Rebased's source code, paste src inside the root dir and replace conflicting files.
 
 Note: the current release is only for windows operating systems, a linux version will be released soon, more features will be added soon aswell.
+
+Installation: Download the release here: https://github.com/gmi7a/Extended-Bugfixed-HL-clientonly/releases/ - Place valve_addon in Steam/steamapps/common/Half-Life and replace any conflicting files, launch the game and head to video settings, Check and enable "Allow custom addon content" -> Apply -> OK.
+
+Special Thanks to: Valve for HLSDK release - tmp64 and LevShisterov for BugfixedHL, anyone who was one of the reasons this existed.
+
+This project was private first then i decided to release it, it is still in its early stages and i might work to add and fix more features later.
